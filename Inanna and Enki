@@ -1,1 +1,321 @@
-
+[
+  {
+    "id": 469520,
+    "composite_no": "Q000338",
+    "designation": "CDLI Literary 000338 (Inanna and Enki) composite",
+    "provenience_comments": "Mesopotamia",
+    "artifact_comments": "composite text",
+    "created_by": 820,
+    "artifact_type_comments": "composite text",
+    "publications": [
+      {
+        "id": 276701934,
+        "entity_id": 469520,
+        "publication_id": 1691588,
+        "exact_reference": "1.3.1 Inana and Enki",
+        "publication_type": "history",
+        "table_name": "artifacts",
+        "publication": {
+          "id": 1691588,
+          "designation": "ETCSL",
+          "bibtexkey": "BlackETCSL",
+          "year": "1998-2006",
+          "entry_type_id": 5,
+          "publisher": "https://etcsl.orinst.ox.ac.uk",
+          "title": "Electronic Text Corpus of Sumerian Literature",
+          "entry_type": {
+            "id": 5,
+            "label": "electronic"
+          },
+          "editors": [],
+          "authors": [
+            {
+              "id": 1235872,
+              "publication_id": 1691588,
+              "author_id": 355,
+              "author": {
+                "id": 355,
+                "author": "Black, Jeremy A.",
+                "last": "Black",
+                "first": "Jeremy A.",
+                "birth_year": 1951,
+                "death_year": 2004
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "material_colors": [],
+    "material_aspects": [],
+    "materials": [],
+    "languages": [
+      {
+        "id": 232633,
+        "artifact_id": 469520,
+        "language_id": 5,
+        "language": {
+          "id": 5,
+          "sequence": 3,
+          "language": "Sumerian",
+          "protocol_code": "sux-x-emegir",
+          "inline_code": "sux"
+        }
+      }
+    ],
+    "genres": [
+      {
+        "id": 243720,
+        "artifact_id": 469520,
+        "genre_id": 5,
+        "comments": "ETCSL 1.03.01 Inanna and Enki (composite) ",
+        "genre": {
+          "id": 5,
+          "genre": "Literary"
+        }
+      }
+    ],
+    "external_resources": [],
+    "dates": [],
+    "collections": [],
+    "period": {
+      "id": 18,
+      "sequence": 19,
+      "period": "Old Babylonian (ca. 1900-1600 BC)"
+    },
+    "witnesses": [
+      {
+        "id": 253318,
+        "composite_no": "Q000338",
+        "artifact_id": 279809,
+        "witness": {
+          "id": 279809,
+          "condition_description": "right edge; rev destroyed",
+          "designation": "CDLI Literary 000338, ex. 001",
+          "museum_no": "N 5730",
+          "artifact_preservation": "fragment",
+          "thickness": "27.0",
+          "height": "45.0",
+          "width": "36.0",
+          "created_by": 820,
+          "period": {
+            "id": 18,
+            "sequence": 19,
+            "period": "Old Babylonian (ca. 1900-1600 BC)"
+          },
+          "provenience": {
+            "id": 22,
+            "provenience": "Nippur (mod. Nuffar)",
+            "location_id": 369,
+            "place_id": 102,
+            "region_id": 8
+          }
+        }
+      },
+      {
+        "id": 361236,
+        "composite_no": "Q000338",
+        "artifact_id": 343195,
+        "witness": {
+          "id": 343195,
+          "designation": "CDLI Literary 000338, ex. 002",
+          "museum_no": "Ist Ni 04153",
+          "created_by": 820,
+          "period": {
+            "id": 18,
+            "sequence": 19,
+            "period": "Old Babylonian (ca. 1900-1600 BC)"
+          },
+          "provenience": {
+            "id": 22,
+            "provenience": "Nippur (mod. Nuffar)",
+            "location_id": 369,
+            "place_id": 102,
+            "region_id": 8
+          }
+        }
+      },
+      {
+        "id": 361823,
+        "composite_no": "Q000338",
+        "artifact_id": 343504,
+        "witness": {
+          "id": 343504,
+          "designation": "CDLI Literary 000338, ex. 003",
+          "museum_no": "Ist Ni 09841",
+          "created_by": 820,
+          "period": {
+            "id": 18,
+            "sequence": 19,
+            "period": "Old Babylonian (ca. 1900-1600 BC)"
+          },
+          "provenience": {
+            "id": 22,
+            "provenience": "Nippur (mod. Nuffar)",
+            "location_id": 369,
+            "place_id": 102,
+            "region_id": 8
+          }
+        }
+      },
+      {
+        "id": 362223,
+        "composite_no": "Q000338",
+        "artifact_id": 343722,
+        "witness": {
+          "id": 343722,
+          "designation": "CDLI Literary 000338, ex. 004",
+          "museum_no": "Ist Ni 04502",
+          "created_by": 820,
+          "period": {
+            "id": 18,
+            "sequence": 19,
+            "period": "Old Babylonian (ca. 1900-1600 BC)"
+          },
+          "provenience": {
+            "id": 22,
+            "provenience": "Nippur (mod. Nuffar)",
+            "location_id": 369,
+            "place_id": 102,
+            "region_id": 8
+          }
+        }
+      },
+      {
+        "id": 515906,
+        "composite_no": "Q000338",
+        "artifact_id": 424044,
+        "witness": {
+          "id": 424044,
+          "designation": "CDLI Literary 000338, ex. 005",
+          "museum_no": "MAH 16127",
+          "thickness": "35.0",
+          "height": "70.0",
+          "width": "65.0",
+          "is_period_uncertain": true,
+          "created_by": 820,
+          "period": {
+            "id": 18,
+            "sequence": 19,
+            "period": "Old Babylonian (ca. 1900-1600 BC)"
+          },
+          "provenience": {
+            "id": 306,
+            "provenience": "uncertain (mod. uncertain)"
+          }
+        }
+      },
+      {
+        "id": 234275,
+        "composite_no": "Q000338",
+        "artifact_id": 268601,
+        "witness": {
+          "id": 268601,
+          "cdli_comments": "Peterson BPOA 09, p.31, 34Peterson BPOA 09, p.31, 34",
+          "condition_description": "u. half, edges missing, 3 cols. ",
+          "designation": "CDLI Literary 000338, ex. 006",
+          "museum_no": "CBS 13571 + CBS 13602 + CBS 13617 + CBS 13623 + CBS 13629 + N 3276 + N 4838 (+) N 6278",
+          "artifact_preservation": "fragment",
+          "created_by": 820,
+          "has_fragments": true,
+          "period": {
+            "id": 18,
+            "sequence": 19,
+            "period": "Old Babylonian (ca. 1900-1600 BC)"
+          },
+          "provenience": {
+            "id": 22,
+            "provenience": "Nippur (mod. Nuffar)",
+            "location_id": 369,
+            "place_id": 102,
+            "region_id": 8
+          }
+        }
+      },
+      {
+        "id": 236259,
+        "composite_no": "Q000338",
+        "artifact_id": 269824,
+        "witness": {
+          "id": 269824,
+          "cdli_comments": "Etcsl 1.3.1 suggests that N 6278 and ist Ni 4151 are part of this tablet (N 3276 is clearly a part of P268601); but note Peterson BPOA 09, p.034Etcsl 1.3.1 suggests that N 6278 and ist Ni 4151 are part of this tablet (N 3276 is clearly a part of P268601); but note Peterson BPOA 09, p.034",
+          "condition_description": "large, edgesd broken, 3 cols. ",
+          "designation": "CDLI Literary 000338, ex. 007",
+          "museum_no": "CBS 15283 ",
+          "created_by": 820,
+          "has_fragments": true,
+          "period": {
+            "id": 18,
+            "sequence": 19,
+            "period": "Old Babylonian (ca. 1900-1600 BC)"
+          },
+          "provenience": {
+            "id": 22,
+            "provenience": "Nippur (mod. Nuffar)",
+            "location_id": 369,
+            "place_id": 102,
+            "region_id": 8
+          }
+        }
+      },
+      {
+        "id": 365016,
+        "composite_no": "Q000338",
+        "artifact_id": 345162,
+        "witness": {
+          "id": 345162,
+          "cdli_comments": "Kramer SLTNi p.17 suggests that this is probably same tablet as CBS 15283Kramer SLTNi p.17 suggests that this is probably same tablet as CBS 15283",
+          "designation": "CDLI Literary 000338, ex. 008",
+          "museum_no": "Ist Ni 04151",
+          "created_by": 820,
+          "has_fragments": true,
+          "period": {
+            "id": 18,
+            "sequence": 19,
+            "period": "Old Babylonian (ca. 1900-1600 BC)"
+          },
+          "provenience": {
+            "id": 22,
+            "provenience": "Nippur (mod. Nuffar)",
+            "location_id": 369,
+            "place_id": 102,
+            "region_id": 8
+          }
+        }
+      },
+      {
+        "id": 365018,
+        "composite_no": "Q000338",
+        "artifact_id": 345163,
+        "witness": {
+          "id": 345163,
+          "designation": "CDLI Literary 000338, ex. 009",
+          "museum_no": "Ist Ni 02724",
+          "created_by": 820,
+          "period": {
+            "id": 18,
+            "sequence": 19,
+            "period": "Old Babylonian (ca. 1900-1600 BC)"
+          },
+          "provenience": {
+            "id": 22,
+            "provenience": "Nippur (mod. Nuffar)",
+            "location_id": 369,
+            "place_id": 102,
+            "region_id": 8
+          }
+        }
+      }
+    ],
+    "impressions": [],
+    "composites": [],
+    "seals": [],
+    "inscription": {
+      "id": 2328347,
+      "artifact_id": 469520,
+      "atf": "&P469520 = CDLI Literary 000338 (Inanna and Enki) composite \n#atf: lang sux \n@object composite text \n@surface a \n$ beginning broken \n1'. [...] x-dam edin-na na-mu-x-[...] \n2'. tug2-szu-gur-ra men edin-na sag-ga2 mu-ni-in-gal2 \n3'. [...] x sipa-ra ga2 udu-sze3 an-na-ra-e3 \n4'. [...] gam-e-dam gal4-la-ni u6 di-dam \n5'. [...] zi-de3-esz gam-e-dam gal4-la-ni u6 di-dam \n6'. [...] gal4-la-ni-sze3 hul2-la-e ni2-te-ni mi2 zi iri in-ga-am3-me \n7'. [...] gal4-la-ni-sze3 hul2-la-e ni2-te-ni mi2 zi iri in-ga-am3-me \n8'. [...] igi nam-szi-in-bar \n9'. [...] igi nam-da-ra-szi-in-bar \n10'. [...] x igi nam-szi-in-bar \n11'. [...] me-e en sa6-ga-gu10-ne \n12'. [...] x me-e mul-la-gu10-ne \n13'. [...] x sig7-ga-gu10-ne \n14'. [...] x sa6-ga-gu10-ne \n15'. [...] x TUR-TUR la2-gu10-ne \n16'. [...] szu du7-a-gu10-ne \n17'. [...] x lum-ma-gu10-ne \n18'. [...] x lam-ma-gu10-ne \n19'. [...]-ma za-ha-am-ma-gu10-ne \n20'. [...] gur-gur-ra-gu10-ne \n21'. [...] en-TUM mul-la-gu10-ne \n22'. [...] en-TUM mul-mul-la-gu10-ne \n23'. abzu uru2-ze2-eb{ki}-sze3 giri3 u3-da-an-szi-gub \n24'. dam-an-ki-ra abzu uru2-ze2-eb{ki}-sze3 giri3 u3-da-an-szi-gub \n25'. abzu uru2-ze2-eb{ki}-sze3 me-e mi2 du5-mu-na-ab-du11 \n26'. dam-an-ki-ra abzu uru2-ze2-eb{ki}-sze3 me-e mi2 du5-mu-na-ab-du11 \n27'. [...]-a ba-an-e3 \n$ rest broken \n@surface b \n1. ga-sza-an-an-na [...] me-e [...]-gen \n2. ga-sza-an-an-na-gen me-e ga-gen? abzu-sze3 \n3. u3-mu-un dam-an-ki-ra a-ra-zu du5-mu-na-ab-be2 \n4. {gesz}erin i3 ze2-ba-gin7 ir RU ku3-gu10 a-ba ma BI [...] \n5. lu2 gesz3 du11-ga-ni ki? tak4-a-gu10 musz3 nam-ba-an-tum2-mu \n6. u4-bi-a ki-sikil {d}inanna \n7. abzu eridu{ki}-ga {d}en-ki-ka3-sze3 \n8. ku3 {d}inanna-ke4 giri3-ni dili mu-un-gub \n9. u4-ba gesztu2 dirig me zu an ki-a \n10. ki-tusz-a-ni-ta sza3 dingir-re-e-ne-ke4 szi-in-ga-zu-a \n11. ku3 {d}inanna-ke4 abzu eridu{ki}-ga-sze3 danna nu-ub-te-a-asz \n12. {d}en-ki lugal abzu-ke4 nig2-nam-e zu-a \n13. {d}en-ki lu2 gu3 mu-un-de2 a2 im-ma-an-ag2 \n14. ga2-nu lu2 inim-gu10-sze3 gesztu2-zu \n15. [...] x ir? [...] \n16. [...] \n17. [...] \n@surface c \n1. [...] nag-e \n2. [...]-gu7-e \n3. ga2-nu [...] x KU \n4. lu2 ga-ra-ab-x [...]-ib-szi-ak \n5. {lu2}ki-sikil abzu eridu{ki}-sze3 [...] NI x \n6. {d}inanna abzu eridu{ki}-sze3 x-[...]-ni-x \n7. {lu2}ki-sikil abzu eridu{ki}-sze3 um-ma-ku4-ra-ta \n8. {d}inanna abzu eridu{ki}-sze3 um-ma-ku4-ra-ta \n9. gug2 i3-nun-ta he2-em-da-gu7-e \n10. a sed nig2 sza3 te-en de2-mu-na-ni \n11. igi pirig-ga2-ka kasz hu-mu-na-na8-na8 \n12. ga2 ma-la-sze3 hu-mu-na-si-ge nam-gi4-me-esz3 hu-mu-na-ak-e \n13. {gesz}banszur ku3 {gesz}banszur an-na-ke4 \n14. ku3 {d}inanna-ra nig2-silim hu-mu-na-e \n15. ur5-gin7 hu-mu-na-ab-be2-a-ka \n16. sukkal {d}isimud-de3 inim lugal-la-na-sze3 sag kesz2 ba-szi-in-ak \n17. {lu2}ki-sikil abzu eridu{ki}-sze3 im-ma-ni-in-ku4-ku4 \n18. {d}inanna abzu eridu{ki}-sze3 im-ma-ni-in-ku4-ku4 \n19. {lu2}ki-sikil abzu eridu{ki}-sze3 um-ma-ku4-ra-ta \n20. {d}inanna abzu eridu{ki}-sze3 um-ma-ku4-ra-ta \n21. gug2 i3-nun-ta im-da-gu7-e \n22. a sed nig2 sza3 ten mu-na-de2-e-ne \n23. igi pirig-ga2-ka kasz mu-na-na8-na8 \n24. ga2 ma-la-sze3 mu-na-si-ge nam-gi4-me-esz3 mu-na-ak-e \n25. {gesz}banszur ku3 {gesz}banszur an-na-ka \n26. ku3 {d}inanna-ra nig2-silim mu-na-e \n27. {d}en-ki {d}inanna e-en-bi-ta \n28. abzu-a kasz im-na8-na8-ne kurun2 im-du10-ge-ne \n29. {zabar}aga im-gur4-gur4-e-ne \n30. zabar {d}urasz-a a-da-min3 mu-un-ak-ne \n$ rest broken \n@surface d \n1. ku3 {d}inanna-ra dumu-gu10-ur2 ga-na-ab-szum2 ba-ra-[...] \n2. nam-ur-sag nam-kal-ga nam-nig2-erim2 nam-nig2-si-sa2 iri lah5 i-si-isz ga2-ga2 sza3 hul2-la \n3. ku3 {d}inanna-ke4 szu ba-ti \n4. mu a2-ga2 mu abzu-ga2 \n5. ku3 {d}inanna-ra dumu-gu10-ur2 ga-na-ab-szum2 ba-ra-[...] \n6. lul-da kur ki-bala nam-du10-ge kas4 di-di ki-tusz gi-na \n7. ku3 {d}inanna-ke4 szu ba-ti \n8. mu a2-ga2 mu abzu-ga2 \n9. ku3 {d}inanna-ra dumu-gu10-ur2 ga-na-ab-szum2 ba-ra-[...] \n10. nam-nagar nam-tibira nam-dub-sar nam-simug nam-aszgab nam-azlag2 nam-szidim nam-ad-kup4 \n11. ku3 {d}inanna-ke4 szu ba-ti \n12. mu a2-ga2 mu abzu-ga2 \n13. ku3 {d}inanna-ra dumu-gu10-ur2 ga-na-ab-szum2 ba-ra-[...] \n14. gesztu2 gizzal szu-luh ku3-ga e2-|DAG.KISIM5xX|-ra ne-mur dub ga2 udu ni2 te-ge26 nig2-me-gar kur-ku \n15. ku3 {d}inanna-ke4 szu ba-ti \n16. mu a2-ga2 mu abzu-ga2 \n17. ku3 {d}inanna-ra dumu-gu10-ur2 ga-na-ab-szum2 ba-ra-[...] \n18. LUL zu2 sis izi mu2-mu2 izi ten-ten a2 kusz2-u3 |KA.GAN2|-ge im-ri-a gu2 gar-ra lu-lu-bu-na \n19. ku3 {d}inanna-ke4 szu ba-ti \n20. mu a2-ga2 mu abzu-ga2 \n21. ku3 {d}inanna-ra dumu-gu10-ur2 ga-na-ab-szum2 ba-ra-[...] \n22. du14 mu2-mu2 u3-ma ad gi4-gi4 sza3 kusz2-u3 di ku5 ka-asz bar \n23. ku3 {d}inanna-ke4 szu ba-ti \n24. mu a2-ga2 mu abzu-ga2 \n25. ku3 {d}inanna-ra dumu-gu10-ur2 ga-na-ab-szum2 ba-ra-[...] \n26. AMA x x-ni nin KA x [...] \n27. x x x dab5-be2 x [...] \n$ rest broken \n@surface e \n1. nam-nig2-si-sa2 ma-an-szum2 \n2. iri lah5 ma-an-szum2 \n3. i-si-isz ga2-ga2 ma-an-szum2 \n4. sza3 hul2-la ma-an-szum2 \n5. lul-da ma-an-szum2 \n6. kur ki-bala ma-an-szum2 \n7. nam-du10-ge ma-an-szum2 \n8. kas4 di-di ma-an-szum2 \n9. ki-tusz gi-na ma-an-szum2 \n10. nam-nagar ma-an-szum2 \n11. nam-tibira ma-an-szum2 \n12. nam-dub-sar ma-an-szum2 \n13. nam-simug ma-an-szum2 \n14. nam-aszgab ma-an-szum2 \n15. nam-azlag2 ma-an-szum2 \n16. nam-szidim ma-an-szum2 \n17. nam-ad-kup4 ma-an-szum2 \n18. gesztu2 ma-an-szum2 \n19. gizzal ma-an-szum2 \n20. szu-luh ku3-ge ma-an-szum2 \n21. e2-|DAG.KISIM5xX|-ra ma-an-szum2 \n22. ne-mur dub ma-an-szum2 \n23. ga2 udu ma-an-szum2 \n24. ni2 te-ge26 ma-an-szum2 \n25. nig2-me-gar ma-an-szum2 \n26. kur-ku ma-an-szum2 \n27. LUL zu2 sis ma-an-szum2 \n28. izi mu2-mu2 ma-an-szum2 \n29. izi ten-ten ma-an-szum2 \n30. a2 kusz2-u3 ma-an-szum2 \n31. |KA.GAN2|-ge ma-an-szum2 \n32. im-ri-a gu2 gar-ra ma-an-szum2 \n33. lu-lu-bu-na ma-an-szum2 \n34. du14 mu2-mu2 ma-an-szum2 \n35. u3-ma ma-an-szum2 \n36. ad gi4-gi4 ma-an-szum2 \n$ rest broken \n@surface f \n1. {d}en-ki-ke4 sukkal {d}isimud-ra gu3 mu-na-de2-e \n2. sukkal {d}isimud-gu10 mu du10 an-na-gu10 \n3. lugal-gu10 {d}en-ki i3-gub-be-en u4-ul a-ra-zu \n4. a-da-al unu{ki} kul-aba4{ki}-sze3 na-ma-ra-an-e3-a \n5. ki {d}utu [...] NE-sze3 na-ma-ra-an-e3-a \n6. im-mi-in-du11-ga-ka sa2 ba-ni-ib2-be2-en \n7. ku3 {d}inanna me mu-un-ur4-ur4 ma2 an-na bi2-in-u5 \n8. ma2 an-na kar-ra za3 bi2-in-tag \n9. kasz nag-ga2-ra kasz nag-ga2-ra kasz mu-un-ta-e11-da \n10. a-a {d}en-ki kasz nag-ga2-ra kasz mu-un-ta-e11-da \n11. en gal {d}en-ki-ke4 e2 [...]-ga-ni gesz mu-un-szi-kar2-kar2 \n12. en-e abzu-sze3 igi mi-ni-ib2-il2-il2-e \n13. lugal {d}en-ki-ke4 eridu{ki}-sze3 gesz mu-un-szi-kar2-kar2 \n14. {d}en-ki-ke4 sukkal {d}isimud-ra gu3 mu-na-de2-e \n15. sukkal {d}isimud-gu10 mu du10 an-na-gu10 \n16. lugal-gu10 {d}en-ki i3-gub-be2-en u4-ul a-ra-zu \n17. nam-en nam-lagar nam-dingir aga zi mah {gesz}gu-za nam-lugal me-a \n18. lugal-gu10 dumu-ni-ir ba-an-na-szum2 \n19. gidru mah eszgiri2 szibir tug2 mah nam-sipa nam-lugal me-a \n20. lugal-gu10 dumu-ni-ir ba-an-na-szum2 \n21. nam-egir3-zi nam-nin-dingir nam-iszib nam-lu2-mah nam-gudug me-a \n22. lugal-gu10 dumu-ni-ir ba-an-na-szum2 \n23. nig2-gi-na SI tur SI e3? kur e11-de3 kur e11-da kur-gar-ra me-a \n24. lugal-gu10 dumu-ni-ir ba-an-na-szum2 \n25. giri2 ba-da-ra sag-ur-sag tug2 ge6 tug2 gun3-a gu2-bar gu2-x me-a \n26. lugal-gu10 dumu-ni-ir ba-an-na-szum2 \n27. gesz [...] me-a \n28. lugal-gu10 dumu-ni-ir ba-an-na-szum2 \n29. {gesz}szu-nir mar-uru5 gesz3 du11-du11 gesz3 ki su-ub nam-kar-ke4 nam-hub2-dar me-a \n30. lugal-gu10 dumu-ni-ir ba-an-na-szum2 \n31. nam-eme-di nam-eme-sig nam-sze-er-ka-an x-a amalu esz2-dam ku3 me-a \n32. lugal-gu10 dumu-ni-ir ba-an-na-szum2 \n33. nigin3-gar ku3 x AN nu-gig an-na gesz-gu3-di nam-nar nam-ab-ba me-a \n34. lugal-gu10 dumu-ni-ir ba-an-na-szum2 \n$ rest broken \n@surface g \n1. x x lugal x [...] \n2. e2 {d}en-ki-ke4 inim nu-ha-lam-e-dam \n3. x x na de5-ga gu3 di gal-zu-a \n4. {gesz}sag-kul {gesz}ig e2-e-ka bi2-za-za bi2-in-du11 bi2-in-esz \n5. ki e-ne-er mu-na-an-pa3 \n6. {d}en-ki-ke4 bi2-za-za-x kiszib3-la2 zi-da-ni im-ma-an-dab5 \n7. [...] ku3-ga-na im-ma-ni-in-ku4-ku4 \n8. [...] {gesz}ha-lu-ub2 {gesz}taskarin-na-ni szu im-ma-an-ti \n9. [...] x muszen an-na-sze3 ba-an-szum2 \n10. [...] x ku6 engur-ra-sze3 ba-an-szum2 \n11. [...] mun mu-ni-in-ra \n12. [...] im-ma-ni-in-ra \n13. [...]-ib-su3 \n14. [...] nam-ba-da-ha-lam-e \n15. [...] suhusz he2-a \n16. [...] x he2-a \n17. [...] kar-ra \n18. [...] sa6-sa6-sze3 \n19. [...] tag \n20. [...] x-a \n21. [...]-e \n$ rest broken \n@surface h \n1. nun-e sukkal-a-ni {d}isimud-ra gu3 mu-na-de2-e \n2. {d}en-ki-ke4 mu du10 an-na-ra inim mu-na-ni-ib-gi4-gi4 \n3. sukkal {d}isimud-gu10 mu du10 an-na-gu10 \n4. lugal-gu10 {d}en-ki i3-gub-be2-en u4-ul a-ra-zu \n5. ma2 an-na me-a sa2 ba-an-du11 \n6. i-da-al kar x [...] sa2 ba-an-du11 \n7. gen-na ma2 an-na enkum-e-ne he2-em-da-ab-kar-re-ne \n8. sukkal {d}isimud-de3 ku3 {d}inanna-ra gu3 mu-na-de2-e \n9. nin-gu10 a-a-zu za-a-sze3 mu-e-szi-in-gi4-in-nam \n10. {d}inanna a-a-zu za-a-sze3 mu-e-szi-in-gi4-in-nam \n11. a-a-zu du11-ga-ni mah-am3 \n12. {d}en-ki-ke4 tah-a-ni mah-am3 \n13. inim gal-gal-a-ni sag2 nu-di \n14. ku3 {d}inanna-ke4 mu-na-ni-ib-gi4-gi4 \n15. a-a-gu10 ta-am3 e-ra-an-du11 ta-am3 e-ra-an-tah \n16. e-ne-eg3 gal-gal-a-ni ta-am3 sag2 nu-di \n17. lugal-gu10 ga2-a-ra ma-an-du11 \n18. {d}en-ki-ke4 ga2-a-ra ma-an-tah \n19. {d}inanna unu{ki}-sze3 he2-du za-e ma2 an-na eridu{ki}-sze3 dib-ma-ab \n20. ku3 {d}inanna-ke4 sukkal {d}isimud-ra gu3 mu-na-de2-e \n21. a-a-gu10 ga2-a-ra ta-am3 gu3 ba-an-kur2 \n22. du11-ga zi-da-ni ga2-a-ra ta-am3 szu i-ni-ib-bala \n23. e-ne-eg3 gal-gal-a-ni ga2-a-ra ta-am3 mu-un-pe-el \n24. a-a-gu10 lul-da ma-an-du11 lul-da ma-an-tah \n25. lul-da mu a2-na mu abzu-na in-pa3 \n26. lul-da ga2-a-ra za-a lu2 mu-un-gi4 \n27. inim-bi ka-ka-na nam-ma-da-gal2-la \n28. enkum-e-ne ma2 an-na im-ma-ni-in-dab5-be2-ne \n29. ku3 {d}inanna sukkal-a-ni {d}nin-szubur-ra gu3 mu-na-de2-e \n30. ga2-nu sukkal zi e2-an-na-gu10 \n31. sukkal e-ne-eg3 sa6-sa6-ga-gu10 \n32. ra-gaba e-ne-eg3 ge-en-gi-na-gu10 \n33. a szu-zu nu-tag a me-ri-zu nu-tag \n34. {d}inanna me sa12 rig7-ga-ni ma2 an-na um-ma-da-an-kar \n35. 2(disz)-kam-ma-sze3 nun-e sukkal-a-ni {d}isimud-ra gu3 mu-na-de2-e \n36. {d}en-ki-ke4 mu du10 an-na-ra inim mu-na-ni-ib-gi4-gi4 \n37. sukkal {d}isimud-gu10 mu du10 an-na-gu10 \n38. lugal-gu10 {d}en-ki i3-gub-be2-en u4-ul a-ra-zu \n39. ma2 an-na me-a sa2 ba-an-du11 \n40. HU [...] ku3-ga sa2 ba-an-du11 \n41. gen-na u18-ru eridu{ki}-ga 5(u)-bi ma2 an-na he2-em-da-ab-kar-re-ne \n42. sukkal {d}isimud-de3 ku3 {d}inanna-ra gu3 mu-na-de2-e \n43. nin-gu10 a-a-zu za-a-sze3 mu-e-szi-in-gi4-in-nam \n44. {d}inanna a-a-zu za-a-sze3 mu-e-szi-in-gi4-in-nam \n45. a-a-zu du11-ga-ni mah-am3 \n46. {d}en-ki-ke4 tah-a-ni mah-am3 \n47. inim gal-gal-a-ni sag2 nu-di \n48. ku3 {d}inanna-ke4 mu-na-ni-ib-gi4-gi4 \n49. a-a-gu10 ta-am3 e-ra-an-du11 ta-am3 e-ra-an-tah \n50. e-ne-eg3 gal-gal-a-ni ta-am3 sag2 nu-di \n51. lugal-gu10 ga2-a-ra ma-an-du11 \n52. {d}en-ki-ke4 ga2-a-ra ma-an-tah \n53. {d}inanna unu{ki}-sze3 he2-du za-e ma2 an-na eridu{ki}-sze3 dib-ma-ab \n54. ku3 {d}inanna-ke4 sukkal {d}isimud-ra gu3 mu-na-de2-e \n55. a-a-gu10 ga2-ra ta-am3 gu3 ba-an-kur2 \n56. du11-ga zi-da-ni ga2-a-ra ta-am3 szu i-ni-ib-bala \n57. e-ne-eg3 gal-gal-a-ni ga2-a-ra ta-am3 mu-un-pe-el \n58. a-a-gu10 lul-da ma-an-du11 lul-da ma-an-tah \n59. lul-da mu a2-na mu abzu-na in-pa3 \n60. lul-da ga2-a-ra za-a lu2 mu-un-gi4 \n61. inim-bi ka-ka-na nam-ma-da-gal2-la \n62. u18-ru eridu{ki}-ga 5(u)-bi ma2 an-na im-ma-ni-in-dab5-e-ne \n63. ku3 {d}inanna-ke4 sukkal-a-ni {d}nin-szubur-ra gu3 mu-na-de2-e \n64. ga2-nu sukkal zi e2-an-na-gu10 \n65. sukkal e-ne-eg3 sa6-sa6-ga-gu10 \n66. ra-gaba e-ne-eg3 ge-en-gi-na-gu10 \n67. a szu-zu nu-tag a me-ri-zu nu-tag \n68. {d}inanna me sa12 rig7-ga-ni ma2 an-na um-ma-da-an-kar \n69. 3(disz)-kam-ma-asz nun-e sukkal-a-ni {d}isimud-ra gu3 mu-na-de2-e \n70. {d}en-ki-ke4 mu du10 an-na-ra inim mu-na-ni-ib-gi4-gi4 \n71. sukkal {d}isimud-gu10 mu du10 an-na-gu10 \n72. lugal-gu10 {d}en-ki i3-gub-be2-en u4-ul a-ra-zu \n73. ma2 an-na me-a sa2 ba-an-du11 \n74. du6 |UL.MA| sa2 ba-an-du11 \n75. gen-na la-ha-ma engur-ra 5(u)-bi ma2 an-na he2-em-da-ab-kar-re-ne \n76. sukkal {d}isimud-de3 ku3 {d}inanna-ra gu3 mu-na-de2-e \n77. nin-gu10 a-a-zu za-a-sze3 mu-e-szi-in-gi4-in-nam \n78. {d}inanna a-a-zu za-a-sze3 mu-e-szi-in-gi4-in-nam \n79. a-a-zu du11-ga-ni mah-am3 \n80. {d}en-ki-ke4 tah-a-ni mah-am3 \n81. inim gal-gal-a-ni sag2 nu-di \n82. ku3 {d}inanna-ke4 mu-na-ni-ib-gi4-gi4 \n83. a-a-gu10 ta-am3 e-ra-an-du11 ta-am3 e-ra-an-tah \n84. e-ne-eg3 gal-gal-a-ni ta-am3 sag2 nu-di \n85. lugal-gu10 ga2-a-ra ma-an-du11 \n86. {d}en-ki-ke4 ga2-a-ra ma-an-tah \n87. {d}inanna unu{ki}-sze3 he2-du za-e ma2 an-na eridu{ki}-sze3 dib-ma-ab \n88. ku3 {d}inanna-ke4 sukkal {d}isimud-ra gu3 mu-na-de2-e \n89. a-a-gu10 ga2-a-ra ta-am3 gu3 ba-an-kur2 \n90. du11-ga zi-da-ni ga2-a-ra ta-am3 szu i-ni-ib-bala \n91. e-ne-eg3 gal-gal-a-ni ga2-a-ra ta-am3 mu-un-pe-el \n92. a-a-gu10 lul-da ma-an-du11 lul-da ma-an-tah \n93. lul-da mu a2-na mu abzu-na in-pa3 \n94. lul-da ga2-a-ra za-a lu2 mu-un-gi4 \n95. inim-bi ka-ka-na nam-ma-da-gal2-la \n96. la-ha-ma engur-ra 5(u)-bi ma2 an-na im-ma-ni-in-dab5-be2-ne \n97. ku3 {d}inanna-ke4 sukkal-a-ni {d}nin-szubur-ra gu3 mu-na-de2-e \n98. ga2-nu sukkal zi e2-an-na-gu10 \n99. sukkal e-ne-eg3 sa6-sa6-ga-gu10 \n100. ra-gaba e-ne-eg3 ge-en-gi-na-gu10 \n101. a szu-zu nu-tag a me-ri-zu nu-tag \n102. {d}inanna me sa12 rig7-ga-ni ma2 an-na um-ma-da-an-kar \n103. 4(disz)-kam-ma-asz nun-e sukkal-a-ni {d}isimud-ra gu3 mu-na-de2-e \n104. {d}en-ki-ke4 mu du10 an-na-ra inim mu-na-ni-ib-gi4-gi4 \n105. sukkal {d}isimud-gu10 mu du10 an-na-gu10 \n106. lugal-gu10 {d}en-ki i3-gub-be2-en u4-ul a-ra-zu \n107. ma2 an-na me-a sa2 ba-an-du11 \n108. du6 a-sza3-ga sa2 ba-an-du11 \n109. gen-na ku6 gal-gal tesz2-bi NI KA da ma2 an-na he2-em-da-ab-kar-re-ne \n110. sukkal {d}isimud-de3 ku3 {d}inanna-ra gu3 mu-na-de2-e \n111. nin-gu10 a-a-zu za-a-sze3 mu-e-szi-in-gi4-in-nam \n112. {d}inanna a-a-zu za-a-sze3 mu-e-szi-in-gi4-in-nam \n113. a-a-zu du11-ga-ni mah-am3 \n114. {d}en-ki-ke4 tah-a-ni mah-am3 \n115. inim gal-gal-a-ni sag2 nu-di \n116. ku3 {d}inanna-ke4 mu-na-ni-ib-gi4-gi4 \n117. a-a-gu10 ta-am3 e-ra-an-du11 ta-am3 e-ra-an-tah \n118. e-ne-eg3 gal-gal-a-ni ta-am3 sag2 nu-di \n119. lugal-gu10 ga2-a-ra ma-an-du11 \n120. {d}en-ki-ke4 ga2-a-ra ma-an-tah \n121. {d}inanna unu{ki}-sze3 he2-du za-e ma2 an-na eridu{ki}-sze3 dib-ma-ab \n122. ku3 {d}inanna-ke4 sukkal {d}isimud-ra gu3 mu-na-de2-e \n123. a-a-gu10 ga2-a-ra ta-am3 gu3 ba-an-kur2 \n124. du11-ga zi-da-ni ga2-a-ra ta-am3 szu i-ni-ib-bala \n125. e-ne-eg3 gal-gal-a-ni ga2-a-ra ta-am3 mu-un-pe-el \n126. a-a-gu10 lul-da ma-an-du11 lul-da ma-an-tah \n127. lul-da mu a2-na mu abzu-na in-pa3 \n128. lul-da ga2-a-ra za-a lu2 mu-un-gi4 \n129. inim-bi ka-ka-na nam-ma-da-gal2-la \n130. ku6 gal-gal tesz2-bi NI KA da ma2 an-na im-ma-ni-in-dab5-be2-ne \n131. ku3 {d}inanna-ke4 sukkal-a-ni {d}nin-szubur-ra gu3 mu-na-de2-e \n132. ga2-nu sukkal zi e2-an-na-gu10 \n133. sukkal e-ne-eg3 sa6-sa6-ga-gu10 \n134. ra-gaba e-ne-eg3 ge-en-gi-na-gu10 \n135. a szu-zu nu-tag a me-ri-zu nu-tag \n136. {d}inanna me sa12 rig7-ga-ni ma2 an-na um-ma-da-an-kar \n137. 5(disz)-kam-ma-asz nun-e sukkal-a-ni {d}isimud-ra gu3 mu-na-de2-e \n138. {d}en-ki-ke4 mu du10 an-na-ra inim mu-na-ni-ib-gi4-gi4 \n139. sukkal {d}isimud-gu10 mu du10 an-na-gu10 \n140. lugal-gu10 {d}en-ki i3-gub-be2-en u4-ul a-ra-zu \n141. ma2 an-na me-a sa2 ba-an-du11 \n142. [...] sa2 ba-an-du11 \n143. gen-na [...] en-nu-ug3 unu{ki}-ga ma2 an-na he2-em-da-ab-kar-re-ne \n144. sukkal {d}isimud-de3 ku3 {d}inanna-ra gu3 mu-na-de2-e \n145. nin-gu10 a-a-zu za-a-sze3 mu-e-szi-in-gi4-in-nam \n146. {d}inanna a-a-zu za-a-sze3 mu-e-szi-in-gi4-in-nam \n147. a-a-zu du11-ga-ni mah-am3 \n148. {d}en-ki-ke4 tah-a-ni mah-am3 \n149. inim gal-gal-a-ni sag2 nu-di \n150. ku3 {d}inanna-ke4 mu-na-ni-ib-gi4-gi4 \n151. a-a-gu10 ta-am3 e-ra-an-du11 ta-am3 e-ra-an-tah \n152. e-ne-eg3 gal-gal-a-ni ta-am3 sag2 nu-di \n153. lugal-gu10 ga2-a-ra ma-an-du11 \n154. {d}en-ki-ke4 ga2-a-ra ma-an-tah \n155. {d}inanna unu{ki}-sze3 he2-du za-e ma2 an-na eridu{ki}-sze3 dib-ma-ab \n156. ku3 {d}inanna-ke4 sukkal {d}isimud-ra gu3 mu-na-de2-e \n157. a-a-gu10 ga2-a-ra ta-am3 gu3 ba-an-kur2 \n158. du11-ga zi-da-ni ga2-a-ra ta-am3 szu i-ni-ib-bala \n159. e-ne-eg3 gal-gal-a-ni ga2-a-ra ta-am3 mu-un-pe-el \n160. a-a-gu10 lul-da ma-an-du11 lul-da ma-an-tah \n161. lul-da mu a2-na mu abzu-na in-pa3 \n162. lul-da ga2-a-ra za-a lu2 mu-un-gi4 \n163. inim-bi ka-ka-na nam-ma-da-gal2-la \n164. [...] en-nu-ug3 unu{ki}-ga ma2 an-na im-ma-ni-in-dab5-be2-ne \n165. ku3 {d}inanna-ke4 sukkal-a-ni {d}nin-szubur-ra gu3 mu-na-de2-e \n166. ga2-nu sukkal zi e2-an-na-gu10 \n167. sukkal e-ne-eg3 sa6-sa6-ga-gu10 \n168. ra-gaba e-ne-eg3 ge-en-gi-na-gu10 \n169. a szu-zu nu-tag a me-ri-zu nu-tag \n170. {d}inanna me sa12 rig7-ga-ni ma2 an-na um-ma-da-an-kar \n171. 6(disz)-kam-ma-asz nun-e sukkal-a-ni {d}isimud-ra gu3 mu-na-de2-e \n172. {d}en-ki-ke4 mu du10 an-na-ra inim mu-na-ni-ib-gi4-gi4 \n173. sukkal {d}isimud-gu10 mu du10 an-na-gu10 \n174. lugal-gu10 {d}en-ki i3-gub-be2-en u4-ul a-ra-zu \n175. ma2 an-na me-a sa2 ba-an-du11 \n176. {i7}surungal x x sa2 ba-an-du11 \n177. gen-na {i7}surungal [...] ma2 an-na he2-em-da-ab-kar-re-ne \n178. ku3 {d}inanna-ra [...] \n179. sukkal {d}isimud-de3 ku3 {d}inanna-ra gu3 mu-na-de2-e \n180. nin-gu10 a-a-zu za-a-sze3 mu-e-szi-in-gi4-in-nam \n181. {d}inanna a-a-zu za-a-sze3 mu-e-szi-in-gi4-in-nam \n182. a-a-zu du11-ga-ni mah-am3 \n183. {d}en-ki-ke4 tah-a-ni mah-am3 \n184. inim gal-gal-a-ni sag2 nu-di \n185. ku3 {d}inanna-ke4 mu-na-ni-ib-gi4-gi4 \n186. a-a-gu10 ta-am3 e-ra-an-du11 ta-am3 e-ra-an-tah \n187. e-ne-eg3 gal-gal-a-ni ta-am3 sag2 nu-di \n188. lugal-gu10 ga2-a-ra ma-an-du11 \n189. {d}en-ki-ke4 ga2-a-ra ma-an-tah \n190. {d}inanna unu{ki}-sze3 he2-du za-e ma2 an-na eridu{ki}-sze3 dib-ma-ab \n191. ku3 {d}inanna-ke4 sukkal {d}isimud-ra gu3 mu-na-de2-e \n192. a-a-gu10 ga2-a-ra ta-am3 gu3 ba-an-kur2 \n193. du11-ga zi-da-ni ga2-a-ra ta-am3 szu i-ni-ib-bala \n194. e-ne-eg3 gal-gal-a-ni ga2-a-ra ta-am3 mu-un-pe-el \n195. a-a-gu10 lul-da ma-an-du11 lul-da ma-an-tah \n196. lul-da mu a2-na mu abzu-na in-pa3 \n197. lul-da ga2-a-ra za-a lu2 mu-un-gi4 \n198. inim-bi ka-ka-na nam-ma-da-gal2-la \n199. {i7}surungal [...] ma2 an-na im-ma-ni-in-dab5-be2-ne \n200. ku3 {d}inanna-ra [...] \n201. ku3 {d}inanna-ke4 sukkal-a-ni {d}nin-szubur-ra gu3 mu-na-de2-e \n202. ga2-nu sukkal zi e2-an-na-gu10 \n203. sukkal e-ne-eg3 sa6-sa6-ga-gu10 \n204. ra-gaba e-ne-eg3 ge-en-gi-na-gu10 \n205. a szu-zu nu-tag a me-ri-zu nu-tag \n206. {d}inanna me sa12 rig7-ga-ni ma2 an-na um-ma-da-an-kar \n207. x [...] \n208. unu{ki} [...] \n209. nig2 [...] \n210. KU ma2 an-na [...] \n211. {d}nin-szubur [...] \n212. ma2 an-na giri3 x [...] \n213. 7(disz)-kam-ma-asz giri3-da ak [...] \n214. sza3-zu NIM-NIM-ma A DU [...] \n215. dumu nun gal ku3 {d}nin-[...] \n216. ku3 {d}inanna-ke4 ma2 an-na im-[...] \n217. ku3 {d}inanna-ke4 u4-ba mu-du7-du7 x [...] \n218. sukkal-a-ni {d}nin-szubur-ra-ke4 \n219. ku3 {d}inanna-ra gu3 mu-na-de2-e \n220. nin-gu10 u4-da ma2 an-na abula nig2-ul-la unu{ki} kul-aba4{ki}-sze3 \n221. iri-me-a he2-gal2 [...] \n222. [...]-me-a he2-gal2 [...] \n223. i7 [...]-me-a ma2-gur8 [...] BI x [...] \n224. ku3 {d}inanna-ke4 mu-na-ni-ib-gi4-gi4 \n225. ge26-e u4-da ma2 an-na \n226. abula nig2-ul-la unu{ki} kul-aba4{ki}-sze3 x [...] \n227. sila-a mah hu-mu-un-dib x \n228. x sila-a mah he2-em-da-sug2-sug2-ge-esz \n229. [...] du5-na he2-em-ta-[...] \n230. [...] hul2-la szu-ta [...] \n231. ab-ba-iri sza3 kusz2-u3 [...] \n232. bur-szu-ma ad gi4-gi4 [...] \n233. gurusz-e a2 {gesz}tukul-la [...] \n234. di4-di4-la2 sza3 hul2-la [...] \n235. unu{ki} [...] \n236. x [...] \n237. [...] \n238. [...] x x x [...] \n239. [...] x GI dumu PA [...] \n240. [...] us2-sa-bi A HI [...] \n241. x-ta ma2 an-na ezem x [...] \n242. siskur2 gal-gal hu-mu-un-[...]-e \n243. lugal-e gu4 he2-em-ma-ab-gaz-e udu he2-em-ma-ab-szar2-re \n244. kasz bur-ra he2-em-de2-e \n245. szem3 {kusz}a2-la2-e szeg11 ha-ba-gi4-gi4 \n246. tigi nig2 du10-ge si he2-em-mi-ib-sa2-sa2 \n247. kur-kur-re nam-mah-gu10 he2-em-pa3-de3 \n248. ug3-gu10 ka tar-gu10 he2-si-il-le \n249. u4-da ma2 an-na abula nig2-ul-la unu{ki} kul-aba4{ki}-sze3 [...] \n250. sila-a mah mu-un-dib [...] \n251. e2 ki-sikil-sze3 sa2 ba-an-du11 tusz-bi [...] \n252. tul2 luh tul2 sag-ga2-na mu-ni-x-[...] \n253. {d}inanna me sa12 rig7-ga-ni ma2 an-na \n254. ka2 ge6-par3-ra-sze3 i-ni-ib-[...] \n255. dag agrun-na-ka mu-ni-in-[...] \n256. ku3 {d}inanna-ke4 ki ma2 an-na gir2-gir2 [...] \n257. nun-e sukkal-a-ni {d}isimud-ra gu3 mu-na-de2-e \n258. {d}en-ki-ke4 mu du10 an-na-ra inim mu-na-ni-ib-gi4-gi4 \n259. sukkal {d}isimud-gu10 mu du10 an-na-gu10 \n260. lugal-gu10 {d}en-ki i3-gub-be2-en u4-ul a-ra-zu \n261. ma2 an-na me-a sa2 ba-an-du11 \n262. kar babbar-ra sa2 ba-an-du11 \n263. gen-na u3 di ba-ni-ib-x-[...] \n264. u3 di ma2 an-na-ka [...] \n265. ku3 {d}inanna-ke4 [...] \n266. u3 di [...] \n267. [...] \n268. [...] \n269. [...] \n@surface i \n1. {d}inanna nam-en ba-e-de6 \n2. nam-lagar ba-e-de6 \n3. nam-dingir ba-e-de6 \n4. aga zi mah ba-e-de6 \n5. {gesz}gu-za nam-lugal ba-e-de6 \n6. gidru mah ba-e-de6 \n7. eszgiri2 szibir ba-e-de6 \n8. tug2 mah ba-e-de6 \n9. nam-sipa ba-e-de6 \n10. nam-lugal ba-e-de6 \n11. nam-egir3-zi ba-e-de6 \n12. nam-nin-dingir ba-e-de6 \n13. nam-iszib ba-e-de6 \n14. nam-lu2-mah ba-e-de6 \n15. nam-gudug ba-e-de6 \n16. nig2-gi-na ba-e-de6 \n17. |GA2.GAN| ba-e-de6 \n18. SI x ba-e-de6 \n19. kur e11-de3 ba-e-de6 \n20. kur e11-da ba-e-de6 \n21. kur-gar-ra ba-e-de6 \n22. giri2 ba-da-ra ba-e-de6 \n23. sag-ur-sag ba-e-de6 \n24. tug2 ge6 ba-e-de6 \n25. tug2 gun3-a ba-e-de6 \n26. gu2-bar ba-e-de6 \n27. gu2-x ba-e-de6 \n28. gesz [...] ba-e-de6 \n29. [...] ba-e-de6 \n30. [...] ba-e-de6 \n31. [...] ba-e-de6 \n32. [...] x ba-e-de6 \n33. [...] x ba-e-de6 \n34. [...] ba-e-de6 \n35. {gesz}szu-nir ba-e-de6 \n36. mar-uru5 ba-e-de6 \n37. gesz3 du11-du11 ba-e-de6 \n38. gesz3 ki su-ub ba-e-de6 \n39. nam-kar-ke4 ba-e-de6 \n40. nam-hub2-dar ba-e-de6 \n41. nam-eme-di ba-e-de6 \n42. nam-eme-sig ba-e-de6 \n43. nam-sze-er-ka-an ba-e-de6 \n44. x-a ba-e-de6 \n45. amalu ba-e-de6 \n46. esz2-dam ku3 ba-e-de6 \n47. nigin3-gar ku3 ba-e-de6 \n48. x AN ba-e-de6 \n49. nu-gig an-na ba-e-de6 \n50. gesz-gu3-di ba-e-de6 \n51. nam-nar ba-e-de6 \n52. nam-ab-ba ba-e-de6 \n53. nam-ur-sag ba-e-de6 \n54. nam-kal-ga ba-e-de6 \n55. nam-nig2-erim2 ba-e-de6 \n56. nam-nig2-si-sa2 ba-e-de6 \n57. iri lah5 ba-e-de6 \n58. i-si-isz ga2-ga2 ba-e-de6 \n59. sza3 hul2-la ba-e-de6 \n60. lul-da ba-e-de6 \n61. kur ki-bala ba-e-de6 \n62. nam-du10-ge ba-e-de6 \n63. kas4 di-di ba-e-de6 \n64. ki-tusz gi-na ba-e-de6 \n65. nam-nagar ba-e-de6 \n66. nam-tibira ba-e-de6 \n67. nam-dub-sar ba-e-de6 \n68. nam-simug ba-e-de6 \n69. nam-aszgab ba-e-de6 \n70. nam-azlag2 ba-e-de6 \n71. nam-szidim ba-e-de6 \n72. nam-ad-kup4 ba-e-de6 \n73. gesztu2 ba-e-de6 \n74. gizzal ba-e-de6 \n75. szu-luh ku3-ga ba-e-de6 \n76. e2-|DAG.KISIM5xX|-ra ba-e-de6 \n77. ne-mur dub ba-e-de6 \n78. ga2 udu ba-e-de6 \n79. ni2 te-ge26 ba-e-de6 \n80. nig2-me-gar ba-e-de6 \n81. ku-kur ba-e-de6 \n82. LUL zu2 sis ba-e-de6 \n83. izi mu2-mu2 ba-e-de6 \n84. izi ten-ten ba-e-de6 \n85. a2 kusz2-u3 ba-e-de6 \n86. |KA.GAN2|-ge ba-e-de6 \n87. im-ri-a gu2 gar-ra ba-e-de6 \n88. lu-lu-bu-na ba-e-de6 \n89. du14 mu2-mu2 ba-e-de6 \n90. u3-ma ba-e-de6 \n91. ad gi4-gi4 ba-e-de6 \n92. sza3 kusz2-u3 ba-e-de6 \n93. di ku5 ba-e-de6 \n94. ka-asz bar ba-e-de6 \n95. umusz ki ga2-ga2 hi-li nam-munus-e-ne ba-e-de6 \n96. [...] me szu du7 ba-e-de6 \n97. [...] e tur-tur ba-e-de6 \n98. [...] KU mah ba-e-de6 \n99. tigi ku3 li-li-is3 ku3 ub3 me-ze2 {kusz}a2-la2 ba-e-de6 \n100. [...] ku3 an-na ba-e-de6 \n101. [...] ku3 an-na ba-e-de6 \n102. [...] ku3 an-na ba-e-de6 \n103. [...] ku3 an-na ba-e-de6 \n104. [...] ku3 an-na ba-e-de6 \n105. [...] ku3 an-na ba-e-de6 \n106. [...] mah x-ga a-na me-a-bi kasz ba-ni-sur-re ba-e-de6 \n107. [...] TAG \n108. [...] x NE \n109. [...] \n110. [...] \n111. [...] \n112. [...] \n113. [...] \n114. [...] \n115. munus-e giri17-zal ne-am3 KA x [...] \n116. e2 ga-an-ze2-er ba-du3 mu-sze3 ba-an-sa4 \n117. szagan-la2-am3 5(u) gin2 im-mi-in-du11-ga-ba \n118. mu-un-|DU.DU| mu-un-szi-ib-la2-a-gin7 \n119. ki-ba szika uruda gul-la mu-sze3 ba-an-sa4 \n120. ki ma2 x-a ba-an-nigin2-na-ra \n121. sza3 AB x du8-du8 mu-sze3 ba-an-sa4 \n122. ki ma2 kar-ra bi2-in-us2-a-ba \n123. ki-ba kar babbar mu-sze3 ba-an-sa4 \n124. ki nig2 [...] im-ta-an-gar-ra-ba \n125. ki-ba kar za-gin3 mu-sze3 ba-an-sa4 \n126. {d}en-ki-ke4 ku3 {d}inanna-ra gu3 mu-na-de2-e \n127. mu a2-ga2 mu abzu-ga2 \n128. munus-e nig2 [...] abzu-ga2 ga-ba-na-gar \n129. a-da-al ne-e ta-am3 mu-da-an-ku4 \n130. MU [...] x szu ga2-ra me dab5 \n131. [...] x he2-a \n132. [...] x he2-a \n133. [...] x he2-a \n134. [...] NE x NE e mu-zu-sze3 MUNUS-la-ne-ne hu-mu-ra-ab-gaz-e-ne \n135. [...] x he2-a \n136. [...] x he2-a \n137. [...] x he2-a \n138. [...] x-a \n139. [...] ezem-ma x [...]-ra he2-a \n140. ka2 ge6-par3-ra-zu A x [...]-ib-zal-zal-e \n141. dumu iri-zu dumu unu{ki}-ga x [...]-ti-le-ne \n142. u3 za-e iri-zu eridu{ki} [...] x he2-en-tah ki-bi na-an-ni-ib-gi4 \n\n\n",
+      "is_atf2conll_diff_resolved": true,
+      "is_latest": true
+    }
+  }
+]
