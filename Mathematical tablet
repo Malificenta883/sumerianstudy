@@ -1,0 +1,265 @@
+[
+  {
+    "id": 10721,
+    "designation": "TSŠ 0050",
+    "museum_no": "Ist Š 0050",
+    "created_by": 820,
+    "publications": [
+      {
+        "id": 276865276,
+        "entity_id": 10721,
+        "publication_id": 1596269,
+        "exact_reference": "p. 170, p. 179",
+        "publication_type": "citation",
+        "table_name": "artifacts",
+        "publication": {
+          "id": 1596269,
+          "designation": "ZA 66, p.156-195",
+          "bibtexkey": "Edzard1976Wirtschaftstexte",
+          "year": "1976",
+          "entry_type_id": 1,
+          "journal_id": 10,
+          "pages": "156-195",
+          "title": "Fāra und Abu Ṣalābiḫ. Die „Wirtschaftstexte“",
+          "volume": "66",
+          "journal": {
+            "id": 10,
+            "journal": "Zeitschrift für Assyriologie"
+          },
+          "entry_type": {
+            "id": 1,
+            "label": "article"
+          },
+          "editors": [],
+          "authors": [
+            {
+              "id": 1232850,
+              "publication_id": 1596269,
+              "author_id": 768,
+              "author": {
+                "id": 768,
+                "author": "Edzard, Dietz Otto",
+                "last": "Edzard",
+                "first": "Dietz Otto",
+                "birth_year": 1930,
+                "death_year": 2004
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 276865277,
+        "entity_id": 10721,
+        "publication_id": 5928,
+        "exact_reference": "0050",
+        "publication_type": "primary",
+        "table_name": "artifacts",
+        "publication": {
+          "id": 5928,
+          "designation": "TSŠ",
+          "bibtexkey": "Jestin1937TSŠ",
+          "year": "1937",
+          "entry_type_id": 2,
+          "number": "3",
+          "publisher": "Paris : E. de Boccard",
+          "title": "Tablettes sumériennes de S̈uruppak conservées au Musée de Stamboul",
+          "series": "Mémoires de L'institut Français d'Archéologie de Stamboul",
+          "entry_type": {
+            "id": 2,
+            "label": "book"
+          },
+          "editors": [],
+          "authors": [
+            {
+              "id": 1252088,
+              "publication_id": 5928,
+              "author_id": 368,
+              "author": {
+                "id": 368,
+                "author": "Jestin, Raymond R.",
+                "last": "Jestin",
+                "first": " Raymond R."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 276865278,
+        "entity_id": 10721,
+        "publication_id": 1643452,
+        "exact_reference": "432ff.",
+        "publication_type": "citation",
+        "table_name": "artifacts",
+        "publication": {
+          "id": 1643452,
+          "designation": "HM 3, (pp.417-439)",
+          "bibtexkey": "Powell1976antecedents",
+          "year": "1976",
+          "entry_type_id": 1,
+          "journal_id": 267,
+          "pages": "417-439",
+          "title": "The antecedents of Old Babylonian place notation and the early history of Babylonian mathematics",
+          "volume": "3",
+          "journal": {
+            "id": 267,
+            "journal": "Historia Mathematica"
+          },
+          "entry_type": {
+            "id": 1,
+            "label": "article"
+          },
+          "editors": [],
+          "authors": [
+            {
+              "id": 1237961,
+              "publication_id": 1643452,
+              "author_id": 828,
+              "author": {
+                "id": 828,
+                "author": "Powell, Marvin A.",
+                "last": "Powell",
+                "first": "Marvin A."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 276865279,
+        "entity_id": 10721,
+        "publication_id": 1641566,
+        "publication_type": "citation",
+        "table_name": "artifacts",
+        "publication": {
+          "id": 1641566,
+          "designation": "Gelb 1960",
+          "bibtexkey": "sec3778",
+          "editors": [],
+          "authors": []
+        }
+      },
+      {
+        "id": 276865280,
+        "entity_id": 10721,
+        "publication_id": 1641567,
+        "publication_type": "citation",
+        "table_name": "artifacts",
+        "publication": {
+          "id": 1641567,
+          "designation": "Guitel 1963",
+          "bibtexkey": "sec3779",
+          "editors": [],
+          "authors": []
+        }
+      },
+      {
+        "id": 276865281,
+        "entity_id": 10721,
+        "publication_id": 1641570,
+        "publication_type": "citation",
+        "table_name": "artifacts",
+        "publication": {
+          "id": 1641570,
+          "designation": "Friberg 1982, 116f.",
+          "bibtexkey": "sec3782",
+          "editors": [],
+          "authors": []
+        }
+      }
+    ],
+    "material_colors": [],
+    "material_aspects": [],
+    "materials": [
+      {
+        "id": 400662,
+        "artifact_id": 10721,
+        "material_id": 1,
+        "material": {
+          "id": 1,
+          "material": "clay"
+        }
+      }
+    ],
+    "languages": [
+      {
+        "id": 7310,
+        "artifact_id": 10721,
+        "language_id": 5,
+        "language": {
+          "id": 5,
+          "sequence": 3,
+          "language": "Sumerian",
+          "protocol_code": "sux-x-emegir",
+          "inline_code": "sux"
+        }
+      }
+    ],
+    "genres": [
+      {
+        "id": 15487,
+        "artifact_id": 10721,
+        "genre_id": 35,
+        "comments": " ",
+        "genre": {
+          "id": 35,
+          "genre": "Mathematical",
+          "parent_id": 7
+        }
+      }
+    ],
+    "external_resources": [],
+    "dates": [],
+    "collections": [
+      {
+        "id": 32566,
+        "artifact_id": 10721,
+        "collection_id": 326,
+        "collection": {
+          "id": 326,
+          "collection": "Arkeoloji Müzeleri, Istanbul, Turkey",
+          "collection_url": "https://muze.gov.tr/muze-detay?SectionId=IAR01&DistId=IAR",
+          "collection_actor": "Agency",
+          "collection_holding": "Museum",
+          "collection_actor_status": "Public",
+          "collection_holding_status": "Extant",
+          "country_iso": "TUR",
+          "region_gadm": "TUR.40_1",
+          "district_gadm": "TUR.40.20_1",
+          "location_longitude_wgs1984": 28.9816,
+          "location_latitude_wgs1984": 41.0111,
+          "glow_id": 20
+        }
+      }
+    ],
+    "artifact_type": {
+      "id": 4,
+      "artifact_type": "tablet",
+      "parent_id": 27
+    },
+    "period": {
+      "id": 7,
+      "sequence": 8,
+      "period": "ED IIIa (ca. 2600-2500 BC)"
+    },
+    "provenience": {
+      "id": 54,
+      "provenience": "Shuruppak (mod. Fara)",
+      "location_id": 481,
+      "place_id": 127,
+      "region_id": 8
+    },
+    "witnesses": [],
+    "impressions": [],
+    "composites": [],
+    "seals": [],
+    "inscription": {
+      "id": 2227659,
+      "artifact_id": 10721,
+      "atf": "&P010721 = TSŠ 0050 \r\n#atf: lang sux \r\n@tablet \r\n@obverse \r\n@column 1 \r\n1. 1(asz@c) sze guru7 \r\n#tr.en: 1 barley-silo, \r\n2. sila3 7(asz@c) \r\n#tr.en: sila3: 7 \r\n3. 1(asz) lu2 szu ba-ti \r\n#tr.en: did one man receive, \r\n4. lu2-bi \r\n#tr.en: the men: \r\n@column 2 \r\n1. 4(szar'u@c) 5(szar2@c) 4(gesz'u@c) 2(gesz2) 5(u@c) 1(asz@c) \r\n#tr.en: 164,571,\r\n2. sze sila3 tak4#? 3(asz@c) \r\n#tr.en: barley, sila3 remaining: 3. \r\n# calculation: 2400 (gur/guru7) × 480 (sila3/gur[mah]) = 1,152,000; 1,152,000 ÷ 7 = 164,571, with 3 sila3 left over\r\n",
+      "is_atf2conll_diff_resolved": true,
+      "is_latest": true
+    }
+  }
+]
